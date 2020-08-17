@@ -1,7 +1,7 @@
 # Sprocket
 ![Sprocket Header](https://github.com/xavier-lim/sprocket/blob/master/images/header.jfif)
 
-As part of KPMG's Data Analytics Consulting Virtual Internship, I created this project is to help Sprocket Central Pty Ltd, a fictional Australian company that sells bikes, determine which new customers to target based on customer demographics and attributes. 
+As part of KPMG's Data Analytics Consulting Virtual Internship, I created this project to help Sprocket Central Pty Ltd, a fictional Australian company that sells bikes, determine which new customers to target based on customer demographics and attributes. 
 
 
 ## Table of Contents
