@@ -7,7 +7,7 @@ As part of KPMG's Data Analytics Consulting Virtual Internship, I created this p
 ## Table of Contents
 1.	[Project Tools](https://github.com/xavier-lim/sprocket#project-tools)
 2.	[Data Source](https://github.com/xavier-lim/sprocket#data-source)
-3.	[Power BI Project Dashboards](https://github.com/xavier-lim/sprocket#tableau-project-dashboards)
+3.	[Tableau Project Dashboards](https://github.com/xavier-lim/sprocket#tableau-project-dashboards)
 4.	[Conclusion](https://github.com/xavier-lim/sprocket#conclusion)
 5.	[Acknowledgements](https://github.com/xavier-lim/sprocket#acknowledgements)
 6.	[Author](https://github.com/xavier-lim/sprocket#author)
