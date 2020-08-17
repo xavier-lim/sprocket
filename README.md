@@ -37,7 +37,7 @@ All the data for this project was collected from [InsideSherpa](https://www.insi
 
 
 ## Conclusion
-In conclusion, Sprocket Central Pty Ltd should focus marketing towards women in their 40s who are in New South Wales (Australia) and who are mass customers working in the financial services, manufacturing, or health industry.
+In conclusion, Sprocket Central Pty Ltd should focus marketing towards women in their 40s who are in New South Wales (Australia). Specifically, mass customers working in the financial services, manufacturing, or health industry.
 
 ## Acknowledgements
   * [KPMG Virtual Experience Program with InsideSherpa](https://www.insidesherpa.com/virtual-internships/m7W4GMqeT3bh9Nb2c)
