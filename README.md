@@ -40,7 +40,7 @@ All the data for this project was collected from [InsideSherpa](https://www.insi
 
 
 ## Model Predictor Variables
-![Categorical Variables](https://github.com/xavier-lim/sprocket/blob/master/images/catergorical_variables.PNG)
+![Categorical Variables](https://github.com/xavier-lim/sprocket/blob/master/images/categorical_variables.PNG)
 
 ---
 
