@@ -31,12 +31,8 @@ All the data for this project was collected from [InsideSherpa](https://www.insi
 4.	The **Customer Address** data set presents location information about *4000* current/past customers.
 
 
-## Tableau Project Dashboards
+## Tableau Project Dashboard
 ![Demographics](https://github.com/xavier-lim/sprocket/blob/master/images/customer_demographics.PNG)
-
----
-
-![Segments](https://github.com/xavier-lim/sprocket/blob/master/images/customer_segments.PNG)
 
 
 ## Model Predictor Variables
