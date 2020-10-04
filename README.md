@@ -32,6 +32,8 @@ All the data for this project was collected from [InsideSherpa](https://www.insi
 
 
 ## Tableau Project Dashboard
+Interactive Version: [Sprocket Dashboards](https://xavier-lim.github.io/SprocketDashboards.html)
+
 ![Demographics](https://github.com/xavier-lim/sprocket/blob/master/images/customer_demographics.PNG)
 
 
