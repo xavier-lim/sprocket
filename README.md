@@ -59,4 +59,4 @@ Most of the company's profits come from women in their 40s, who are mass custome
 
 ## Author
 
-* **Xavier Lim** - [LinkedIn](https://www.linkedin.com/in/xavier-lim14/) | [Portfolio Website]( https://xavier-lim.github.io/)
+* **Xavier Lim** - [LinkedIn](https://www.linkedin.com/in/xavier-lim14/)  |  [Portfolio Website]( https://xavier-lim.github.io/)  |  [Tableau Public](https://public.tableau.com/profile/xavier.lim#!/)
